@@ -1,5 +1,5 @@
 # Home Charge for Electric Vehicle 2021
-This project help you to connect the person who have their electric vehichle batery low with the person who has space and charging tools in them house, This system work like renting place, all the transaction can be done online or cash.
+This project helps you to connect the person who have their electric vehicle battery low with the person who has space and charging tools in their house, This system works like renting a place, all the transaction can be done online or by cash.
 
 ![Project Image](Assets/cover.png)
 
@@ -16,7 +16,7 @@ This project help you to connect the person who have their electric vehichle bat
 
 ## Description
 
-This project is using the NodeMCU, this project outcome is to make tool that can lock the cable of charging tools to unlock it you should scan the barcode at the charging tools, the duration and the cost will automatically get into the person that using the charging station. All the information history, charging station location, charging activity, cost, detail cost, and direction can be accessed by the website.
+This project is using the NodeMCU, the outcome is to make tool that can lock the cable of charging tools to unlock it you should scan the barcode at the charging port, the duration and the cost will automatically get into the person that using the charging station. All the information history, charging station location, charging activity, cost, detail cost, and direction can be accessed by the website.
 
 ![Project Image](Assets/poster.png)
 
